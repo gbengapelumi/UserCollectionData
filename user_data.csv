@@ -1,0 +1,4 @@
+age,gender,total_income,location,marital_status,occupation,education_level,utilities,entertainment,school_fees,shopping,healthcare
+25,male,35000,Benue,single,Fisherman,high_school,2500,1200,,,
+40,female,350000,Osun,married,Accountant,bachelor_degree,25000,12000,50000,30000,10000
+35,male,250000,Oyo,married,Civil Servant,high_school,20000,12000,40000,30000,20000
